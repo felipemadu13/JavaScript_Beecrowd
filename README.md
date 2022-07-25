@@ -4,3 +4,4 @@
 ## Iniciante ##
 * [1000 - Hello World!](https://github.com/felipemadu13/Beecrowd_JavaScript/blob/13b86e47d3caebc96e1d9e8fe1b597e09001ec04/ex1000.js)
 * [1001 - Extremamente Básico](https://github.com/felipemadu13/Beecrowd_JavaScript/blob/e1b4c779ca6d6eda6d929a65dcefe0260405bf8d/ex1001.js)
+* [1002 - Área do Círculo] (https://github.com/felipemadu13/Beecrowd_JavaScript/blob/e584efb122552c4069e9a7167c403b6b4ed06067/ex1002.js)
