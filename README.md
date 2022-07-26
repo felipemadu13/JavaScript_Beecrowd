@@ -1,6 +1,6 @@
 # Beecrowd JavaScript
 
-![beecrowd](https://user-images.githubusercontent.com/106445418/181118571-2c52b4d3-9af6-48ea-9664-1f23adc7c25e.png)
+![beecrowd3](https://user-images.githubusercontent.com/106445418/181119393-94bfe0b0-38ef-4dc6-b5f2-1891797c797d.png)
 
  Resolução dos desafios de JavaScript(Node.js 12.18.3) do site Beecrowd.
  
