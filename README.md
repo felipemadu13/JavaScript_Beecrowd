@@ -1,5 +1,10 @@
 # Beecrowd JavaScript
+
+![beecrowd](https://user-images.githubusercontent.com/106445418/181118571-2c52b4d3-9af6-48ea-9664-1f23adc7c25e.png)
+
  Resolução dos desafios de JavaScript(Node.js 12.18.3) do site Beecrowd.
+ 
+ 
  
 ## Iniciante ##
 * [1000 - Hello World!](https://github.com/felipemadu13/Beecrowd_JavaScript/blob/13b86e47d3caebc96e1d9e8fe1b597e09001ec04/ex1000.js)
