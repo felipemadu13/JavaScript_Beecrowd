@@ -1,7 +1,7 @@
-var input = require('fs').readFileSync('/dev/stdin', 'utf8');
-var lines = input.split('\n');
+let input = require('fs').readFileSync('/dev/stdin', 'utf8');
+let lines = input.split('\n');
     
-var a = parseInt(lines.shift());
-var b = parseInt(lines.shift());
+let a = parseInt(lines.shift());
+let b = parseInt(lines.shift());
    
 console.log('X = ' + (a+b));
