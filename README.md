@@ -13,6 +13,12 @@
 * [1003 - Soma Simples](https://github.com/felipemadu13/Beecrowd_JavaScript/blob/3e41c78adbbc4718e8c517a0f4111b804b55942d/ex1003.js)
 * [1004 - Produto Simples](https://github.com/felipemadu13/Beecrowd_JavaScript/blob/3e41c78adbbc4718e8c517a0f4111b804b55942d/ex1004.js)
 * [1005 - Média 1](https://github.com/felipemadu13/Beecrowd_JavaScript/blob/3e41c78adbbc4718e8c517a0f4111b804b55942d/ex1005.js)
+* [1006 - Média 2](https://github.com/felipemadu13/Beecrowd_JavaScript/blob/b12d51ff78500105ca9b76ddd7b1ec2d1b7b61af/ex1006.js)
+* [1007 - Diferença](https://github.com/felipemadu13/Beecrowd_JavaScript/blob/b12d51ff78500105ca9b76ddd7b1ec2d1b7b61af/ex1007.js)
+* [1008 - Salário](https://github.com/felipemadu13/Beecrowd_JavaScript/blob/b12d51ff78500105ca9b76ddd7b1ec2d1b7b61af/ex1008.js)
+* [1009 - Salário com Bônus](https://github.com/felipemadu13/Beecrowd_JavaScript/blob/b12d51ff78500105ca9b76ddd7b1ec2d1b7b61af/ex1009.js)
+* [1010 - Cálculo Simples](https://github.com/felipemadu13/Beecrowd_JavaScript/blob/b12d51ff78500105ca9b76ddd7b1ec2d1b7b61af/ex1010.js)
+
 
 
 
