@@ -18,7 +18,7 @@
 * [1008 - Salário](https://github.com/felipemadu13/Beecrowd_JavaScript/blob/b12d51ff78500105ca9b76ddd7b1ec2d1b7b61af/ex1008.js)
 * [1009 - Salário com Bônus](https://github.com/felipemadu13/Beecrowd_JavaScript/blob/b12d51ff78500105ca9b76ddd7b1ec2d1b7b61af/ex1009.js)
 * [1010 - Cálculo Simples](https://github.com/felipemadu13/Beecrowd_JavaScript/blob/b12d51ff78500105ca9b76ddd7b1ec2d1b7b61af/ex1010.js)
-
-
-
+* [1011 - Esfera](https://github.com/felipemadu13/Beecrowd_JavaScript/blob/575bf89bd531bc183b0d7b10aded70545ce6daca/INICIANTE/ex1011.js)
+* [1012 - Área](https://github.com/felipemadu13/Beecrowd_JavaScript/blob/575bf89bd531bc183b0d7b10aded70545ce6daca/INICIANTE/ex1012.js)
+* [1013 - O Maior](https://github.com/felipemadu13/Beecrowd_JavaScript/blob/575bf89bd531bc183b0d7b10aded70545ce6daca/INICIANTE/ex1013.js)
 
