@@ -21,4 +21,5 @@
 * [1011 - Esfera](https://github.com/felipemadu13/Beecrowd_JavaScript/blob/575bf89bd531bc183b0d7b10aded70545ce6daca/INICIANTE/ex1011.js)
 * [1012 - Área](https://github.com/felipemadu13/Beecrowd_JavaScript/blob/575bf89bd531bc183b0d7b10aded70545ce6daca/INICIANTE/ex1012.js)
 * [1013 - O Maior](https://github.com/felipemadu13/Beecrowd_JavaScript/blob/575bf89bd531bc183b0d7b10aded70545ce6daca/INICIANTE/ex1013.js)
-
+* [1014 - Consumo](https://github.com/felipemadu13/Beecrowd_JavaScript/blob/f93d0758f79d78fff79bb2be2302ae816f3f58c2/INICIANTE/ex1014.js)
+* [1015 - Distância Entre Dois Pontos](https://github.com/felipemadu13/Beecrowd_JavaScript/blob/f93d0758f79d78fff79bb2be2302ae816f3f58c2/INICIANTE/ex1015.js)
