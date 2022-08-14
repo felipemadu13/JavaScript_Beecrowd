@@ -1,4 +1,4 @@
-let input = require('fs').readFileSync('stdin', 'utf8');
+let input = require('fs').readFileSync('/dev/stdin', 'utf8');
 let lines = input.split('\n')
 
 let dinheiro = lines.shift();
@@ -49,43 +49,43 @@ if (restante >= 2) {
 
 if (restante >= 1) {
     moedas100 = parseInt(restante / 1)
-    restante = (restante - (moedas100 * 1))
+    restante = (restante - (moedas100 * 1)) 
 }
 // CALCULO DAS MOEDAS
 
 if (moedas >= 0.50) {
     moedas050 = parseInt(moedas / 0.50)
-    moedas = (moedas - (moedas050 * 0.50))
+    moedas = (moedas - (moedas050 * 0.50)) + 0.00001
 } 
 
 if (moedas >= 0.25) {
     moedas025 = parseInt(moedas / 0.25)
-    moedas = (moedas - (moedas025 * 0.25))
+    moedas = (moedas - (moedas025 * 0.25)) + 0.00001
 } 
 
 if (moedas >= 0.10) {
     moedas010 = parseInt(moedas / 0.10)
-    moedas = (moedas - (moedas010 * 0.10))
+    moedas = (moedas - (moedas010 * 0.10)) + 0.00001
 }
 
 if (moedas >= 0.05) {
     moedas005 = parseInt(moedas / 0.05)
-    moedas = (moedas - (moedas005 * 0.05))
+    moedas = (moedas - (moedas005 * 0.05)) + 0.00001
 } 
 
 if (moedas >= 0.01) {
     moedas001 = parseInt(moedas / 0.01)
-    moedas = (moedas - (moedas001 * 0.01))
+    moedas = (moedas - (moedas001 * 0.01)) + 0.00001
 }
 
 // SAIDA DAS NOTAS
 console.log('NOTAS:')
-console.log(`${notas100} nota(s) de R$ 100,00`)
-console.log(`${notas050} nota(s) de R$ 50,00`)
-console.log(`${notas020} nota(s) de R$ 20,00`)
-console.log(`${notas010} nota(s) de R$ 10,00`)
-console.log(`${notas005} nota(s) de R$ 5,00`)
-console.log(`${notas002} nota(s) de R$ 2,00`)
+console.log(`${notas100} nota(s) de R$ 100.00`)
+console.log(`${notas050} nota(s) de R$ 50.00`)
+console.log(`${notas020} nota(s) de R$ 20.00`)
+console.log(`${notas010} nota(s) de R$ 10.00`)
+console.log(`${notas005} nota(s) de R$ 5.00`)
+console.log(`${notas002} nota(s) de R$ 2.00`)
 
 // SAIDA DAS MOEDAS
 console.log('MOEDAS:')
