@@ -23,3 +23,10 @@
 * [1013 - O Maior](https://github.com/felipemadu13/Beecrowd_JavaScript/blob/575bf89bd531bc183b0d7b10aded70545ce6daca/INICIANTE/ex1013.js)
 * [1014 - Consumo](https://github.com/felipemadu13/Beecrowd_JavaScript/blob/f93d0758f79d78fff79bb2be2302ae816f3f58c2/INICIANTE/ex1014.js)
 * [1015 - Distância Entre Dois Pontos](https://github.com/felipemadu13/Beecrowd_JavaScript/blob/f93d0758f79d78fff79bb2be2302ae816f3f58c2/INICIANTE/ex1015.js)
+* [1016 - 	Distância](https://github.com/felipemadu13/JavaScript_Beecrowd/blob/22d5a789647ece8f1df033681674368e6a9ab965/INICIANTE/ex1016.js)
+* [1017 - Gasto de Combustível](https://github.com/felipemadu13/JavaScript_Beecrowd/blob/22d5a789647ece8f1df033681674368e6a9ab965/INICIANTE/ex1017.js)
+* [1018 - Cédulas](https://github.com/felipemadu13/JavaScript_Beecrowd/blob/22d5a789647ece8f1df033681674368e6a9ab965/INICIANTE/ex1018.js)
+* [1019 - Conversão de Tempo](https://github.com/felipemadu13/JavaScript_Beecrowd/blob/22d5a789647ece8f1df033681674368e6a9ab965/INICIANTE/ex1019.js)
+* [1020 - Idade em Dias](https://github.com/felipemadu13/JavaScript_Beecrowd/blob/22d5a789647ece8f1df033681674368e6a9ab965/INICIANTE/ex1020.js)
+* [1021 - Notas e Moedas](https://github.com/felipemadu13/JavaScript_Beecrowd/blob/22d5a789647ece8f1df033681674368e6a9ab965/INICIANTE/ex1021.js)
+
