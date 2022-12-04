@@ -29,6 +29,11 @@
 * [1019 - Conversão de Tempo](https://github.com/felipemadu13/JavaScript_Beecrowd/blob/22d5a789647ece8f1df033681674368e6a9ab965/INICIANTE/ex1019.js)
 * [1020 - Idade em Dias](https://github.com/felipemadu13/JavaScript_Beecrowd/blob/22d5a789647ece8f1df033681674368e6a9ab965/INICIANTE/ex1020.js)
 * [1021 - Notas e Moedas](https://github.com/felipemadu13/JavaScript_Beecrowd/blob/22d5a789647ece8f1df033681674368e6a9ab965/INICIANTE/ex1021.js)
+* 1035 - Teste de Seleção 1
+* 1036 - Fórmula de Bhaskara
+* 1037 - Intervalo
+* 1038 - Lanche
+* 1040 - Média 3
 ## Estruturas e Bibliotecas ##
 * [1022 - TDA Racional]
 
